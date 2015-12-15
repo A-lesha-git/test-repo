@@ -20,7 +20,7 @@
 					<target>1.7</target>
 					<encoding>UTF-8</encoding>
 		    	<fork>true</fork>
-                <executable>D:\Program Files\Java\jdk1.8.0_20\bin\javac.exe</executable>
+                <!-- <executable>D:\Program Files\Java\jdk1.8.0_20\bin\javac.exe</executable> -->
 				</configuration>
 			</plugin>
 			<!-- Below plug-in is used to execute tests -->
